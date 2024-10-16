@@ -1,3 +1,3 @@
-module github.com/gurth/hugo-blox-news
+module github.com/gurth/news-hugo-blox
 
 go 1.19
