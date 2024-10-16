@@ -1,3 +1,3 @@
-module github.com/pikachu/hugo-blox-news
+module github.com/gurth/hugo-blox-news
 
 go 1.19
